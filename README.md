@@ -7,4 +7,4 @@ Se desea almacenar toda esta información de manera estructurada en una base de 
 
 Los procesos de carga se han implementado mediante trabajos y transformaciones de Pentaho Data Integration (PDI, Keetle) y las visualizaciones con Power BI.
 
-Para más detalles, se recomienda consultar la presentación adjunta.
+Para más detalles, se recomienda consultar la [siguiente presentación](https://github.com/mrodrigalvarez/PDI_OPTA/blob/main/PFM%20-%20OPTA.pdf).
